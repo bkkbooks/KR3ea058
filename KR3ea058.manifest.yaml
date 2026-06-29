@@ -1,0 +1,919 @@
+canonical_identifier: bkk:krp/KR3ea058/v1
+canonical_location: https://kanripo.org/bkk/KR3ea058/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 難經正義
+  identifiers:
+    krp: KR3ea058
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea058.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea058_000.yaml, hash: 'sha256:b67275f4e8c266e1bedb2bd4273e3efd370b0352492c95d17989876601c1b802'}
+  - {seq: 1, filename: KR3ea058_001.yaml, hash: 'sha256:1d8e1462ebab280c2a812b9dc6f50dbc4035b60a766fd51c442bb6cbf9377b61'}
+  - {seq: 2, filename: KR3ea058_002.yaml, hash: 'sha256:858856d3bb8031fb1b11f58dee46046c5608ed232b01e6bf36ffb770b49373f1'}
+  - {seq: 3, filename: KR3ea058_003.yaml, hash: 'sha256:39b164d5de1de465d6da305e0ee8f6d3898af3df55eb0c522d67b8f5ff860ace'}
+  - {seq: 4, filename: KR3ea058_004.yaml, hash: 'sha256:2d8648900d5491d66a9b444d0e524aa52247ee2fae5cd07f57bbfc28e3169460'}
+  - {seq: 5, filename: KR3ea058_005.yaml, hash: 'sha256:1860b3e9f116983426ed5056e91aeb9c9b0f1a5d1ad36ac43ad2e60f4f593f0c'}
+  - {seq: 6, filename: KR3ea058_006.yaml, hash: 'sha256:f00b3765220e2ce9726854d2af0dd61ddf2df0c36d55af1f28ddaed3d6d355f1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea058_000.markers.yaml, hash: 'sha256:7fe366ffaeb0ebd1ce643d9008479a31c16104d9d86896371efba0f8242154df'}
+  - {seq: 1, role: markers, filename: assets/KR3ea058_001.markers.yaml, hash: 'sha256:cab6aabca7ca744bdfbd8f316f89aca66ca8f366e359c08382787821802cfd45'}
+  - {seq: 2, role: markers, filename: assets/KR3ea058_002.markers.yaml, hash: 'sha256:03c16df42802ecb2041f80ba7fc5344f5b7758b323bb6e3340b8fa9c2dc6b830'}
+  - {seq: 3, role: markers, filename: assets/KR3ea058_003.markers.yaml, hash: 'sha256:eb09caaa376b7cfdbf38c57151ed24975df87aea94b105f2bed3368812383638'}
+  - {seq: 4, role: markers, filename: assets/KR3ea058_004.markers.yaml, hash: 'sha256:38b0152ed8c3722d3cee7100c175b7b9d1daa9ad25065e46b35f275454a74553'}
+  - {seq: 5, role: markers, filename: assets/KR3ea058_005.markers.yaml, hash: 'sha256:0d2ce66566fc8b696cf9ededca0ef97a8e3dc74b94e59742a02b6bc623e0eecc'}
+  - {seq: 6, role: markers, filename: assets/KR3ea058_006.markers.yaml, hash: 'sha256:b0ad3f6e0aa3fc1049dfa5b9fb27cd69271f597b04937791764dbe3d7631a6ea'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea058_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 472
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 18467
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1639
+  label: 一難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d3
+    span:
+    - body
+    - 1639
+    - 2113
+  label: 二難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d4
+    span:
+    - body
+    - 2113
+    - 3274
+  label: 三難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d5
+    span:
+    - body
+    - 3274
+    - 4245
+  label: 四難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d6
+    span:
+    - body
+    - 4245
+    - 4742
+  label: 五難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d7
+    span:
+    - body
+    - 4742
+    - 4951
+  label: 六難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d8
+    span:
+    - body
+    - 4951
+    - 6531
+  label: 七難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d9
+    span:
+    - body
+    - 6531
+    - 7046
+  label: 八難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d10
+    span:
+    - body
+    - 7046
+    - 7709
+  label: 九難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d11
+    span:
+    - body
+    - 7709
+    - 8284
+  label: 十難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d12
+    span:
+    - body
+    - 8284
+    - 8529
+  label: 十一難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d13
+    span:
+    - body
+    - 8529
+    - 9020
+  label: 十二難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d14
+    span:
+    - body
+    - 9020
+    - 10118
+  label: 十三難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d15
+    span:
+    - body
+    - 10118
+    - 12185
+  label: 十四難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d16
+    span:
+    - body
+    - 12185
+    - 13887
+  label: 十五難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d17
+    span:
+    - body
+    - 13887
+    - 15050
+  label: 十六難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d18
+    span:
+    - body
+    - 15050
+    - 15554
+  label: 十七難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d19
+    span:
+    - body
+    - 15554
+    - 16731
+  label: 十八難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d20
+    span:
+    - body
+    - 16731
+    - 17542
+  label: 十九難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d21
+    span:
+    - body
+    - 17542
+    - 17977
+  label: 二十難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d22
+    span:
+    - body
+    - 17977
+    - 18201
+  label: 二十一難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea058_jc_001-d3d23
+    span:
+    - body
+    - 18201
+    - 18467
+  label: 二十二難
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7923
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 1129
+  label: 二十三難
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4d3
+    span:
+    - body
+    - 1129
+    - 2476
+  label: 二十四難
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4d4
+    span:
+    - body
+    - 2476
+    - 3273
+  label: 二十五難
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4d5
+    span:
+    - body
+    - 3273
+    - 3779
+  label: 二十六難
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4d6
+    span:
+    - body
+    - 3779
+    - 4072
+  label: 二十七難
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4d7
+    span:
+    - body
+    - 4072
+    - 6141
+  label: 二十八難
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea058_jc_002-d4d8
+    span:
+    - body
+    - 6141
+    - 7923
+  label: 二十九難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 12207
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 322
+  label: 三十難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d3
+    span:
+    - body
+    - 322
+    - 972
+  label: 三十一難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d4
+    span:
+    - body
+    - 972
+    - 1166
+  label: 三十二難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d5
+    span:
+    - body
+    - 1166
+    - 2823
+  label: 三十三難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d6
+    span:
+    - body
+    - 2823
+    - 3926
+  label: 三十四難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d7
+    span:
+    - body
+    - 3926
+    - 5836
+  label: 三十五難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d8
+    span:
+    - body
+    - 5836
+    - 6484
+  label: 三十六難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d9
+    span:
+    - body
+    - 6484
+    - 7298
+  label: 三十七難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d10
+    span:
+    - body
+    - 7298
+    - 7439
+  label: 三十八難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d11
+    span:
+    - body
+    - 7439
+    - 7997
+  label: 三十九難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d12
+    span:
+    - body
+    - 7997
+    - 8230
+  label: 四十難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d13
+    span:
+    - body
+    - 8230
+    - 8407
+  label: 四十一難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d14
+    span:
+    - body
+    - 8407
+    - 10453
+  label: 四十二難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d15
+    span:
+    - body
+    - 10453
+    - 10676
+  label: 四十三難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d16
+    span:
+    - body
+    - 10676
+    - 11012
+  label: 四十四難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d17
+    span:
+    - body
+    - 11012
+    - 11572
+  label: 四十五難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d18
+    span:
+    - body
+    - 11572
+    - 11847
+  label: 四十六難
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea058_jc_003-d5d19
+    span:
+    - body
+    - 11847
+    - 12207
+  label: 四十七難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 15034
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 461
+  label: 四十八難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d3
+    span:
+    - body
+    - 461
+    - 2384
+  label: 四十九難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d4
+    span:
+    - body
+    - 2384
+    - 2869
+  label: 五十難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d5
+    span:
+    - body
+    - 2869
+    - 3117
+  label: 五十一難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d6
+    span:
+    - body
+    - 3117
+    - 3247
+  label: 五十二難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d7
+    span:
+    - body
+    - 3247
+    - 3665
+  label: 五十三難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d8
+    span:
+    - body
+    - 3665
+    - 3787
+  label: 五十四難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d9
+    span:
+    - body
+    - 3787
+    - 4057
+  label: 五十五難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d10
+    span:
+    - body
+    - 4057
+    - 6758
+  label: 五十六難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d11
+    span:
+    - body
+    - 6758
+    - 7264
+  label: 五十七難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d12
+    span:
+    - body
+    - 7264
+    - 11116
+  label: 五十八難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d13
+    span:
+    - body
+    - 11116
+    - 12511
+  label: 五十九難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d14
+    span:
+    - body
+    - 12511
+    - 13326
+  label: 六十難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea058_jc_004-d6d15
+    span:
+    - body
+    - 13326
+    - 15034
+  label: 六十一難
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 5038
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7d2
+    span:
+    - body
+    - 2
+    - 223
+  label: 六十二難
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7d3
+    span:
+    - body
+    - 223
+    - 568
+  label: 六十三難
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7d4
+    span:
+    - body
+    - 568
+    - 1383
+  label: 六十四難
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7d5
+    span:
+    - body
+    - 1383
+    - 2329
+  label: 六十五難
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7d6
+    span:
+    - body
+    - 2329
+    - 3252
+  label: 六十六難
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7d7
+    span:
+    - body
+    - 3252
+    - 3902
+  label: 六十七難
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea058_jc_005-d7d8
+    span:
+    - body
+    - 3902
+    - 5038
+  label: 六十八難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 10309
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d2
+    span:
+    - body
+    - 2
+    - 345
+  label: 六十九難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d3
+    span:
+    - body
+    - 345
+    - 890
+  label: 七十難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d4
+    span:
+    - body
+    - 890
+    - 1149
+  label: 七十一難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d5
+    span:
+    - body
+    - 1149
+    - 1838
+  label: 七十二難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d6
+    span:
+    - body
+    - 1838
+    - 2148
+  label: 七十三難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d7
+    span:
+    - body
+    - 2148
+    - 3046
+  label: 七十四難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d8
+    span:
+    - body
+    - 3046
+    - 5808
+  label: 七十五難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d9
+    span:
+    - body
+    - 5808
+    - 6226
+  label: 七十六難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d10
+    span:
+    - body
+    - 6226
+    - 7422
+  label: 七十七難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d11
+    span:
+    - body
+    - 7422
+    - 8100
+  label: 七十八難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d12
+    span:
+    - body
+    - 8100
+    - 9355
+  label: 七十九難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d13
+    span:
+    - body
+    - 9355
+    - 9525
+  label: 八十難
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea058_jc_006-d8d14
+    span:
+    - body
+    - 9525
+    - 10309
+  label: 八十一難
+  type: section
+  level: 2
+hash: sha256:8dbab6279bb7b29c6b8d8bac41efc6976d98325a929d2b4c7ebc273e5c604ec3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
